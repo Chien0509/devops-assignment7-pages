@@ -30,6 +30,11 @@ if args.site:
         errors.append("Built index.html missing")
     else:
         body = html.read_text(encoding="utf-8")
+        activity_lines = re.findall(r"(?m)^\\d+\\.\\s+(.+)$", readme.split(start, 1)[-1].split(end, 1)[0])
+        if activity_lines:
+            # Detect stale builds that omit activity entries despite an updated README.
+            if "Chien0509/activity-log" not in body or "<li>" not in body:
+                errors.append("Built HTML does not render the updated activity entries")
         for phrase in ("Recent activity", "Release safety"):
             if phrase not in body:
                 errors.append("Built HTML missing " + phrase)
