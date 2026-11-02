@@ -1,0 +1,7 @@
+title: DevOps Assignment 7
+markdown: kramdown
+theme: minima
+exclude:
+  - scripts
+  - SETUP.md
+  - docs
