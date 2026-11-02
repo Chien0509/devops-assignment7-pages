@@ -18,7 +18,7 @@ This website publishes my recent GitHub activity through a scheduled GitHub Acti
 8. 🎉 Created a new branch assignment6/experiment-baseline in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/experiment-baseline)
 9. 🎉 Created a new branch assignment6/ci-gate-v3 in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/ci-gate-v3)
 10. 🎉 Created a new branch assignment6/pm-setup in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/pm-setup)
-<!--END_SECTION:activity-->
+<!-- END_SECTION:activity intentionally removed for O-level validation test -->
 
 ## Release safety
 This site uses **gated deployment**: validate source → build with Jekyll → validate generated output → deploy only when all checks pass.
