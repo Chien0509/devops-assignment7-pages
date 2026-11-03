@@ -8,16 +8,16 @@ This website publishes my recent GitHub activity through a scheduled GitHub Acti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 📥 Opened PR #1 in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/pull/1)
-2. 🎉 Created a new branch assignment6/collaborator-guides in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/collaborator-guides)
-3. 📝 Committed to assignment6/ff-demo-feature in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/commit/d11869f165623d4e0fb9a033ae7d1fa6a5c0cc7b)
-4. 🎉 Created a new branch assignment6/ff-demo-base in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/ff-demo-base)
-5. 📝 Committed to assignment6/experiment-baseline in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/commit/344e2ac4b315edfa8aa0abcdd4a2be71450f5e2a)
-6. 📝 Committed to assignment6/pm-setup in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/commit/147f1d278500fdfe0793cf7bf7052c4499fa35ea)
-7. 📝 Committed to assignment6/experiment-baseline in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/commit/5ef92f70eda7ff2206b4d37e6014aef53b17727f)
-8. 📝 Committed to master in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/commit/b45866eb44dd4e655f0122a52203b8ff62577962)
-9. 🎉 Created a new branch assignment6/experiment-baseline in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/experiment-baseline)
-10. 🎉 Created a new branch assignment6/ci-gate-v3 in [Chien0509/activity-log](https://github.com/Chien0509/activity-log/tree/assignment6/ci-gate-v3)
+1. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/4b6038fb9c4d4886c65b2f981019db7afbf7fe39)
+2. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/e5b561e533768cbb200185b0853538724c4a62a9)
+3. 🎉 Created a new branch main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/tree/main)
+4. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/bfde6c9d824cfd541813dffb75c35229b1e1696c)
+5. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/f3e600787847a9b30e0bb6366d53ddff7533acd0)
+6. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/6cb450eb05fc01226ffc98fbcb988ee580df2e74)
+7. 📝 Committed to demo/o-level-validation-failure in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/00e09f5fb09dd0d32bc6d0710892f429779fb072)
+8. 🎉 Created a new branch demo/o-level-validation-failure in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/tree/demo/o-level-validation-failure)
+9. 📝 Committed to main in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/commit/efb962a2730b10c582b777ae701691bd59df87fb)
+10. 📥 Opened PR #1 in [Chien0509/devops-assignment7-pages](https://github.com/Chien0509/devops-assignment7-pages/pull/1)
 <!--END_SECTION:activity-->
 
 ## Release safety
